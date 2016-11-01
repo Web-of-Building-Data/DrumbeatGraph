@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: code-graph
+Implementation-Version: 1.0.0
+Vaadin-Package-Version: 1
+Vaadin-Widgetsets: com.vaadin.graph.demo.codegraph.CodeGraphDemoWidget
+ set
+

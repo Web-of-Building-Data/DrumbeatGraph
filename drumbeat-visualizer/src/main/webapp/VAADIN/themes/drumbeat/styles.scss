@@ -1,0 +1,5 @@
+@import "drumbeat.scss";
+
+.drumbeat {
+  @include drumbeat;
+}
