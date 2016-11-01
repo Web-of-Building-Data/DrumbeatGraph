@@ -1,0 +1,22 @@
+graph {
+ fill-color: rgb(255,255,255);
+}
+
+edge {
+	arrow-shape: arrow; 
+	arrow-size: 10px, 10px;
+    size:2px;
+    shape:cubic-curve;
+}
+node:selected { fill-color: red; }
+
+node{
+ size:40px;
+ shape: rounded-box; 
+ text-size:18px;
+ fill-color:rgb(155,155,155);
+ text-color:rgb(0,0,0);
+ stroke-mode:plain;
+ stroke-width:2px;
+ stroke-color:#FFF8;
+}
